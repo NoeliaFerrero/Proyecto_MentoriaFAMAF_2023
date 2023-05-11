@@ -2,35 +2,22 @@
 
 # Big Data Bang: explosionando rutas aéreas para predecir un caos de alto vuelo..! 
 
-De la misma manera que el Big Bang (o Gran Explosión en español), intenta interpretar el punto inicial en el que se formó la materia, el espacio y el tiempo, trabajaremos en las distintas etapas en el ciclo de vida del desarrollo de un proyecto de Ciencia de Datos, para generar valor en función de nuestros datos cualitativos (materia y espacio), vs. nuestros datos cuantitativos (tiempo). 
-
-
 <div align="center">
 
-# Recursos para aprender Ciencias De Datos
-
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Data-Science-4-you/blob/main/gatito_algebra_lineal.jpg" width="700" height="600">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/main/listo para el despegue en DS_1.png" width="500" height="300">
 </p>
-
-<p align="center">
-  Recopilación de recursos para aprender Ciencia De Datos.
-</p>
-
-Plantilla tomada de [Acadeller](https://github.com/Acadeller)
-</div>
+ 
 
 # Tabla de contenidos 💡
 
-- [Resumen](#resumen)
+- [Introduccion](#intro)
 - [Índice](#índice)
 - [Contribución](#contribución)
 
-# Resumen
+# Introduccion 
 
-Este repositorio nace con el objetivo principal de recopilar la mayor cantidad posible de recursos de Ciencias de datos que existan en internet, para que estén al alcance de cualquier persona en todo momento. El repositorio está dividido por bases de programación, cursos y carreras, también se adjuntarán todos los recursos que enriquezcan la comunidad (se puede colocar algún canal de Youtube/Redes siempre y cuando sea sobre Ciencia De Datos)
-
-Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo de [esta manera](#contribución).
+De la misma manera que el Big Bang (o Gran Explosión en español), intenta interpretar el punto inicial en el que se formó la materia, el espacio y el tiempo, trabajaremos en las distintas etapas en el ciclo de vida del desarrollo de un proyecto de Ciencia de Datos, para generar valor en función de nuestros datos cualitativos (materia y espacio), vs. nuestros datos cuantitativos (tiempo). Aunque estos términos suenen similares, la investigación de datos, cualitativa y la cuantitativa son dos métodos significativamente diferentes. Entender esa diferencia puede tener un gran impacto a la hora de analizar el éxito de una solución/producto basado en datos. 
 
 
 # Índice
