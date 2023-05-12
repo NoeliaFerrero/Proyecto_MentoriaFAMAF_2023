@@ -32,7 +32,7 @@ De la misma manera que el Big Bang (o Gran Explosión en español), intenta inte
 
 Gestión de los recursos Aeroportuarios, analizar y determinar puntos críticos de saturación en el Aeroparque Jorge Newbery
 
-**[⬆ Volver al índice](#índice)**
+**[⬆ Volver al índice](# Tabla de Contenidos)**
 
 
 ## Descripcion 
@@ -40,7 +40,7 @@ Gestión de los recursos Aeroportuarios, analizar y determinar puntos críticos 
 Dada la excelente ubicación geográfica, el Aeropuerto Jorge Newbery es estratégico para la explotación de empresas aéreas tanto nacionales, como internacionales. Luego de la pandemia del Covid 2020 se decretó que el mismo volvería a ser un aeropuerto internacional (destinos del Mercosur y países de Sudamérica). Es por esto, que se han incrementado exponencialmente sus operaciones, pero su infraestructura para soportar este incremento no ha acompañado. Luego de la época de confinamiento, se reconstruyó la única pista que este aeródromo posee, pero esa obra no es suficiente, ya que la terminal de pasajeros ha permanecido prácticamente sin grandes incrementos de su capacidad.
 Se realizará el estudio de los datos provistos por el explotador aéreo existente a fin de prever los picos de capacidad de todos los subsistemas que integran al aeropuerto en sí y así evitar saturaciones de los mismos, permitiendo una gestión soportada en datos.  
 
-**[⬆ Volver al índice](#índice)**
+**[⬆ Volver al inicio](#índice)**
 
 ### Algoritmos
 
