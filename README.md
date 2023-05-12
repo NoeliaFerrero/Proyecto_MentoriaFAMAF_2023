@@ -42,9 +42,9 @@ Se realizará el estudio de los datos provistos por el explotador aéreo existen
 
 Registros de 120000+ vuelos de aerolíneas comerciales entre los años 2019 y septiembre del 2022 inclusive. Cada registro representa un solo vuelo, incluido el nombre de la aerolínea, el número de vuelo y el aeropuerto de origen / destino, así como los horarios de salida y llegada programados / reales.
 
-Tipo de Archivo | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
-|---|---|---|---|---|---|
-| .CSV | Series Temporales, Transporte, Geoespacial | Tabular | 127929 | 28 | [Link](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
+Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
+|---|---|---|---|---|---|---|
+| .CSV | 13,5 Mb| Series Temporales, Transporte, Geoespacial | Tabular | 127929 | 28 | [Link](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
 
 ### Diccionario_de_Datos
 
@@ -83,7 +83,7 @@ Nombre Campo | Breve descripcion |
 
 |Notebook | Descripción | Link |
 |---|---|---|
-| 🐍 Proyecto FAMAF Aeroparque Jorge Newbery | Demo de conexión al Set de datos | [Link](https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
+| 🐍 Proyecto FAMAF Aeroparque Jorge Newbery | Demo de conexión al Set de datos | [Link](https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
  
 **[⬆ Volver al inicio](#introduccion)**
 
