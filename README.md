@@ -9,7 +9,7 @@
 </p>
 </div>
 
-# Tabla de contenidos 💡
+# Tabla de contenidos 📖
 
 - [Introduccion](#intro)
 - [Índice](#índice)
@@ -32,7 +32,7 @@ De la misma manera que el Big Bang (o Gran Explosión en español), intenta inte
 
 Gestión de los recursos Aeroportuarios, analizar y determinar puntos críticos de saturación en el Aeroparque Jorge Newbery
 
-**[⬆ Volver al índice](# Tabla de Contenidos)**
+**[⬆ Volver al índice](#Tabla de contenidos)**
 
 
 ## Descripcion 
