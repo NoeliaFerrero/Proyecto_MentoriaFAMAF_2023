@@ -25,30 +25,30 @@
 
 ***De la misma manera que el Big Bang (o Gran Explosión en español), intenta interpretar el punto inicial en el que se formó la materia, el espacio y el tiempo, trabajaremos en las distintas etapas en el ciclo de vida del desarrollo de un proyecto de Ciencia de Datos, para generar valor en función de nuestros datos cualitativos (materia y espacio), vs. nuestros datos cuantitativos (tiempo). Aunque estos términos suenen similares, la investigación de datos, cualitativa y la cuantitativa son dos métodos significativamente diferentes. Entender esa diferencia puede tener un gran impacto a la hora de analizar el éxito de una solución/producto basado en datos.*** 
 
-## Contexto Empresarial 
+## Contexto_Empresarial 
 
 ### Objetivo
 
 Gestión de los recursos Aeroportuarios, analizar y determinar puntos críticos de saturación en el Aeroparque Jorge Newbery.
 
-**[⬆ Volver al inicio](#intro)**
+**[⬆ Volver al inicio](#introduccion)**
 
 ### Descripcion 
 
 Dada la excelente ubicación geográfica, el Aeropuerto Jorge Newbery es estratégico para la explotación de empresas aéreas tanto nacionales, como internacionales. Luego de la pandemia del Covid 2020 se decretó que el mismo volvería a ser un aeropuerto internacional (destinos del Mercosur y países de Sudamérica). Es por esto, que se han incrementado exponencialmente sus operaciones, pero su infraestructura para soportar este incremento no ha acompañado. Luego de la época de confinamiento, se reconstruyó la única pista que este aeródromo posee, pero esa obra no es suficiente, ya que la terminal de pasajeros ha permanecido prácticamente sin grandes incrementos de su capacidad.
 Se realizará el estudio de los datos provistos por el explotador aéreo existente a fin de prever los picos de capacidad de todos los subsistemas que integran al aeropuerto en sí y así evitar saturaciones de los mismos, permitiendo una gestión soportada en datos.  
 
-**[⬆ Volver al inicio](#intro)**
+**[⬆ Volver al inicio](#introduccion)**
 
-## Contexto Analítico 
+## Contexto_Analítico 
 
 Registros de 120000+ vuelos de aerolíneas comerciales entre los años 2019 y septiembre del 2022 inclusive. Cada registro representa un solo vuelo, incluido el nombre de la aerolínea, el número de vuelo y el aeropuerto de origen / destino, así como los horarios de salida y llegada programados / reales.
 
 Tipo de Archivo | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
 |---|---|---|---|---|---|
-| .CSV | Series Temporales, Transporte, Geoespacial | Tabular | 127929 | 28 | [Link](https://aprende.org/) |
+| .CSV | Series Temporales, Transporte, Geoespacial | Tabular | 127929 | 28 | [Link]([https://aprende.org/](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv)) |
 
-### Diccionario de Datos
+### Diccionario_de_Datos
 
 Nombre Campo | Breve descripcion | 
 |---|---|
@@ -81,17 +81,13 @@ Nombre Campo | Breve descripcion |
 | mes | Mes de operación del vuelo | 
 | Hora | Hora de operación del vuelo | 
 
-
-**[⬆ Volver al inicio](#intro)**
-
-### Vista previa de los Datos 
+### Vista_previa_de_los_Datos 
 
 |Notebook | Descripción | Link |
 |---|---|---|
 | 🐍 Aeroparque Jorge Newbery | Ejemplo para conectar los datos | [Link](https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
  
-https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv
-
+**[⬆ Volver al inicio](#introduccion)**
 
 ## FAQs
 
@@ -107,6 +103,8 @@ Te invito a explorar esas dimensiones construyendo juntos este proyecto para que
 ### Este proyecto es para vos si...
 
 Este recurso ha sido pensado con la intención de brindarte la flexibilidad para encontrar tu camino...diseñar un viaje en el que puedas desarrollar e intercambiar habilidades del mundo real...asique si ya comenzaste esa metamorfosis que te permite pensar como un verdadero Cientifico/a de datos y especialmente si te gusta volar con la imaginacion (lease, hacer presentaciones anti-aburridas) podes sumarte a bordo, la hoja de ruta esta casi lista, solo falta agregar la pasión por los datos que cada uno quiera compartir!
+
+**[⬆ Volver al inicio](#introduccion)**
 
 Espero que te lleves algo útil de esta lectura, gracias por llegar hasta acá ;) 
 
