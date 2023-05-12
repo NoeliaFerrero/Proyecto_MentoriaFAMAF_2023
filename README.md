@@ -9,49 +9,35 @@
 </p>
 </div>
 
-## Tabla de contenidos 📖
+# Tabla de contenidos 📖
 - [Introduccion](#intro)
 - [Contexto Analitico](#contexto)
   - [Objetivo](#objetivo)
   - [Descripcion](#descripcion)
   - [Diccionario de Datos](#diccionario)
+- [Notebook ejemplo para conectar el Dataset](#notebook)
 - [FAQs](#faqs)
   - [¿Por qué deberías participar en este proyecto?](#porque1)
   - [¿Qué te llevarías de útil?](#porque2)
-
-
-# Tabla de contenidos 📖
-
-- [Introduccion](#intro)
-- [Contexto Analitico](#contexto)
-- [Notebook para conectar el Dataset](#notebook)
 
 # Introduccion 
 
 De la misma manera que el Big Bang (o Gran Explosión en español), intenta interpretar el punto inicial en el que se formó la materia, el espacio y el tiempo, trabajaremos en las distintas etapas en el ciclo de vida del desarrollo de un proyecto de Ciencia de Datos, para generar valor en función de nuestros datos cualitativos (materia y espacio), vs. nuestros datos cuantitativos (tiempo). Aunque estos términos suenen similares, la investigación de datos, cualitativa y la cuantitativa son dos métodos significativamente diferentes. Entender esa diferencia puede tener un gran impacto a la hora de analizar el éxito de una solución/producto basado en datos. 
 
-
 # Contexto Analitico 
-
-* [Objetivo](#objetivo)
-* [Descripcion](#descripcion)
-* [Diccionario de Datos](#diccionario)
-
 
 ## Objetivo
 
 Gestión de los recursos Aeroportuarios, analizar y determinar puntos críticos de saturación en el Aeroparque Jorge Newbery
 
-**[⬆ Volver al Contexto Analitico](#contexto)**
-
+**[⬆ Volver al inicio](#intro)**
 
 ## Descripcion 
 
 Dada la excelente ubicación geográfica, el Aeropuerto Jorge Newbery es estratégico para la explotación de empresas aéreas tanto nacionales, como internacionales. Luego de la pandemia del Covid 2020 se decretó que el mismo volvería a ser un aeropuerto internacional (destinos del Mercosur y países de Sudamérica). Es por esto, que se han incrementado exponencialmente sus operaciones, pero su infraestructura para soportar este incremento no ha acompañado. Luego de la época de confinamiento, se reconstruyó la única pista que este aeródromo posee, pero esa obra no es suficiente, ya que la terminal de pasajeros ha permanecido prácticamente sin grandes incrementos de su capacidad.
 Se realizará el estudio de los datos provistos por el explotador aéreo existente a fin de prever los picos de capacidad de todos los subsistemas que integran al aeropuerto en sí y así evitar saturaciones de los mismos, permitiendo una gestión soportada en datos.  
 
-**[⬆ Volver al Contexto Analitico](#contexto)**
-
+**[⬆ Volver al inicio](#intro)**
 
 ## Diccionario de Datos
 
