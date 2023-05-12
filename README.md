@@ -46,7 +46,7 @@ Registros de 120000+ vuelos de aerolíneas comerciales entre los años 2019 y se
 
 Tipo de Archivo | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
 |---|---|---|---|---|---|
-| .CSV | Series Temporales, Transporte, Geoespacial | Tabular | 127929 | 28 | [Link]([https://aprende.org/](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv)) |
+| .CSV | Series Temporales, Transporte, Geoespacial | Tabular | 127929 | 28 | [Link](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
 
 ### Diccionario_de_Datos
 
