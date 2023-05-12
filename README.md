@@ -93,7 +93,7 @@ Nombre Campo | Breve descripcion |
 
 ***¿Qué te sumaría participar en este proyecto?***
 
-El peor mito que me invadía, cuando comencé a conocer este “smart data”, es que la inspiración llega cuando quiere. Y digo esto, porque todos, en mayor ó menor medida, hemos tenido dudas al momento de encontrar esa GRAN idea que guie nuestro primer GRAN proyecto, pero si ponemos atención, podemos encontrar puntos de inspiración muy claros en nuestra vida y las cosas que nos llaman la atención, y entonces empiezan a surgir las preguntas interesantes…pero para poder responder esas preguntas, debemos tener algo que es muy necesario: contexto. El contexto lo podemos obtener de muchos lugares: de los que hacemos, de lo que queremos hacer, algunos también lo llaman motivación ó propósito. 
+El peor mito que me invadía, cuando comencé a conocer este “smart data”, es que la inspiración llega cuando quiere. Y digo esto, porque todos, en mayor ó menor medida, hemos tenido dudas al momento de encontrar esa GRAN idea que guie nuestro primer GRAN proyecto, pero si ponemos atención, podemos encontrar puntos de inspiración muy claros en nuestra vida y las cosas que nos llaman la atención, y entonces empiezan a surgir las preguntas interesantes…claro que, para poder responder esas preguntas, debemos tener algo que es muy necesario: **contexto**. El contexto lo podemos obtener de muchos lugares: de los que hacemos, de lo que queremos hacer, algunos también lo llaman **motivación** ó **propósito**. 
 
 Te invito a explorar esas dimensiones construyendo juntos este proyecto para que puedas: 
 -	Mejorar lo que ya haces en tu trabajo
@@ -105,11 +105,11 @@ Te invito a explorar esas dimensiones construyendo juntos este proyecto para que
 ***Este proyecto es para vos si...***
 
 Este recurso ha sido pensado con la intención de brindarte la flexibilidad para encontrar tu propio camino...diseñar un viaje en el que puedas desarrollar e intercambiar habilidades del mundo real...
-asique si ya comenzaste esa metamorfosis que te permite pensar como un verdadero Cientifico/a de datos y especialmente si te gusta volar con la imaginacion (lease, hacer presentaciones anti-aburridas) podes sumarte a bordo, la hoja de ruta esta casi lista, solo falta agregar la pasión por los datos que cada uno quiera compartir!
+asique si ya comenzaste esa metamorfosis que te permite pensar como un verdadero Cientifico/a de datos y especialmente si te gusta volar con la imaginación (lease, hacer presentaciones anti-aburridas) podes sumarte a bordo, la hoja de ruta esta casi lista, solo falta agregar la pasión por los datos que cada uno quiera compartir!
 
 **[⬆ Volver al inicio](#introduccion)**
 
-Espero que te lleves algo útil de esta lectura, gracias por llegar hasta acá ;) 
+Espero que te lleves algo útil de tu paso por acá ;) 
 
 By Noe Ferrero
 
