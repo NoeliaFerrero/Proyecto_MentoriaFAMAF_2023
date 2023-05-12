@@ -1,6 +1,6 @@
 # Mentoria FAMAF 2023
 
-# Big Data Bang: explosionando las rutas aéreas para predecir un caos en alto vuelo..! 
+# ***Big Data Bang: explosionando las rutas aéreas para predecir un caos en alto vuelo..!***
 
 <div align="center">
 
@@ -43,6 +43,19 @@ Se realizará el estudio de los datos provistos por el explotador aéreo existen
 
 
 ## Diccionario de Datos
+
+
+| TITULO1| TITULO2|
+
+| ----- | ---- |
+
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
+
+
+
+
+
 
 Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
 |---|---|---|---|---|---|
