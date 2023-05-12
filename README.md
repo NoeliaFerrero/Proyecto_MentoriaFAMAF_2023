@@ -10,16 +10,16 @@
 </div>
 
 # Tabla de contenidos 📖
-- [Introduccion](#intro)
-- [Contexto Empresarial](#contexto1)
+- [Introduccion](#introduccion)
+- [Contexto Empresarial](#contexto_empresarial)
   - [Objetivo](#objetivo)
   - [Descripcion](#descripcion)
-- [Contexto Analítico](#contexto2)
-  - [Diccionario de Datos](#diccionario)
-  - [Vista previa de los datos](#notebook)
+- [Contexto Analítico](#contexto_analítico)
+  - [Diccionario de Datos](#diccionario_de_datos)
+  - [Vista previa de los datos](#vista_previa_de_los_datos)
 - [FAQs](#faqs)
-  - [¿Qué te sumaría participar en este proyecto?](#faq1)
-  - [Este proyecto es para vos si...](#faq2)
+  - [¿Qué te sumaría participar en este proyecto?](#¿qué te sumaría participar en este proyecto?)
+  - [Este proyecto es para vos si...](#este proyecto es para vos si...)
 
 ## Introduccion 
 
