@@ -86,10 +86,12 @@ Nombre Campo | Breve descripcion |
 
 ### Vista previa de los Datos 
 
-|Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
-|---|---|---|---|---|---|
-| 🐍 El Libro de Python 🐍 | Libro Online | Libro | Español | Sí | [Link](https://ellibrodepython.com/) |
+|Notebook | Descripción | Link |
+|---|---|---|
+| 🐍 Aeroparque Jorge Newbery | Ejemplo para conectar los datos | [Link](https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv) |
  
+https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv
+
 
 ## FAQs
 
