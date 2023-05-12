@@ -1,13 +1,13 @@
-# Mentoria FAMAF
+# Mentoria FAMAF 2023
 
-# Big Data Bang: explosionando rutas aéreas para predecir un caos de alto vuelo..! 
+# Big Data Bang: explosionando las rutas aéreas para predecir un caos en alto vuelo..! 
 
 <div align="center">
 
 <p align="center">
   <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/main/listo para el despegue en DS_1.png" width="500" height="300">
 </p>
- 
+</div>
 
 # Tabla de contenidos 💡
 
@@ -22,39 +22,23 @@ De la misma manera que el Big Bang (o Gran Explosión en español), intenta inte
 
 # Índice
 
-* [Cupones](#cupones)
-* [Redes Sociales](#redes)
-* [Algoritmos](#algoritmos)
-* [Cursos Ciencia De Datos](#cursos)
-* [Aceleradoras Para Conseguir Empleo](#aceleradoras)
-* [Recursos](#recursos)
-* [Python](#python)
-* [R](#R)
-* [Scala](#scala)
-* [SQL](#sql)
-* [Universidad](#universidad)
+* [Objetivo](#objetivo)
+* [Descripcion](#descripcion)
+* [Diccionario de Datos](#diccionario)
+* [Notebook para conectar el Dataset](#notebook)
 
 
+## Objetivo
 
-## Cupones
-
-### Cupones
-
-Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
-|---|---|---|---|---|---|
-| Cupones | Chat Bot Telegram | Bot | Español/Inglés | Sí | [Link](https://t.me/UCupones) |
-
+Gestión de los recursos Aeroportuarios, analizar y determinar puntos críticos de saturación en el Aeroparque Jorge Newbery
 
 **[⬆ Volver al índice](#índice)**
 
 
-### Redes
+## Descripcion 
 
-Nombre | Descripción | Tipo | Idioma | Gratuito | Link |
-|---|---|---|---|---|---|
-| Grupo Datos Para Todos | Grupo de Telegram de Datos Para Todos | Grupo | Español | Sí | [link](https://t.me/+6O7Uk_30cINhYjQx) |
-| Discord Datos Para Todos | Servidor Discord | Servidor | Español | Sí | [Link](https://discord.gg/GNFhw3CHve) |
-
+Dada la excelente ubicación geográfica, el Aeropuerto Jorge Newbery es estratégico para la explotación de empresas aéreas tanto nacionales, como internacionales. Luego de la pandemia del Covid 2020 se decretó que el mismo volvería a ser un aeropuerto internacional (destinos del Mercosur y países de Sudamérica). Es por esto, que se han incrementado exponencialmente sus operaciones, pero su infraestructura para soportar este incremento no ha acompañado. Luego de la época de confinamiento, se reconstruyó la única pista que este aeródromo posee, pero esa obra no es suficiente, ya que la terminal de pasajeros ha permanecido prácticamente sin grandes incrementos de su capacidad.
+Se realizará el estudio de los datos provistos por el explotador aéreo existente a fin de prever los picos de capacidad de todos los subsistemas que integran al aeropuerto en sí y así evitar saturaciones de los mismos, permitiendo una gestión soportada en datos.  
 
 **[⬆ Volver al índice](#índice)**
 
