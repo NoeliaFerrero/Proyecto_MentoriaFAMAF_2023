@@ -2,7 +2,7 @@
 
 Para la gestión del proyecto, se trabajara colaborativamente con la herramienta Trello, la cual nos ayudará a administrar el flujo de trabajo y supervisar tareas. 
 
-## Proyect Management [Link](https://raw.githubusercontent.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/main/DataSet%20Aeropuerto%20Jorge%20Newery.csv)
+## Proyect Management [Link](https://trello.com/invite/b/rCZs4Ac4/ATTI7b5843cd5ec659e04b4611503d930bb5EDD20104/project-management)
 
 <p align="center">
   <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/b8ecfa3efd323c85e999afa0d21563b5d6759fdd/Trello/proyect%20managenent.png">
