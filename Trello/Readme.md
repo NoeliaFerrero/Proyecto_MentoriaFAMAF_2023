@@ -1,8 +1,8 @@
-Espacio de Trabajo común
+#Espacio de Trabajo común
 
 
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/main/listo para el despegue en DS_1.png" width="500" height="300">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/83eb100718b887056664a42b37a609893afea00b/Trello/kanban.png">
 </p>
 </div>
