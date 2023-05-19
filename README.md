@@ -1,4 +1,4 @@
-# Mentoria FAMAF 2023
+# ~ Mentoria FAMAF 2023 ~ 
 
 # ***Big Data Bang: explosionando las rutas aéreas para predecir un caos en alto vuelo..!***
 
@@ -109,7 +109,7 @@ asique si ya comenzaste esa metamorfosis que te permite pensar como un verdadero
 
 **[⬆ Volver al inicio](#introduccion)**
 
-Espero que te lleves algo útil de tu paso por acá ;) 
+Gracias por tu lectura. Espero que te lleves algo útil de tu paso por acá ;) 
 
 By Noe Ferrero
 
