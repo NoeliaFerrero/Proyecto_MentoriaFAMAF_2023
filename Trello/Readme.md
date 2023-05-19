@@ -1,5 +1,5 @@
 # Gestion de Proyecto, pero sin caos...
-# Espacio de Trabajo común
+# Espacio de Trabajo común para un ¡feliz aprendizaje!
 
 Para la gestión del proyecto, se trabajara colaborativamente con la herramienta Trello, la cual facilita la administración del flujo de trabajo y supervisar tareas/avances entre los miembros del equipo. 
 
