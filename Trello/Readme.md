@@ -6,7 +6,7 @@ Para la gestión del proyecto, se trabajara colaborativamente con la herramienta
 ## Proyect Management [Link](https://trello.com/invite/b/rCZs4Ac4/ATTI7b5843cd5ec659e04b4611503d930bb5EDD20104/project-management)
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/b8ecfa3efd323c85e999afa0d21563b5d6759fdd/Trello/proyect%20managenent.png">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2023/blob/bc7b670eb33ee1282770559e9b05dd515d50aee3/Trello/proyect%20managenent_ok.png">
 </p>
 </div>
 
