@@ -1,7 +1,12 @@
 # Gestion de Proyecto, pero sin caos...
 # Espacio de Trabajo común para un ¡feliz aprendizaje!
 
-Para la gestión del proyecto, se trabajara colaborativamente con la herramienta Trello, la cual facilita la administración del flujo de trabajo y supervisar tareas/avances entre los miembros del equipo. 
+Para la gestión del proyecto, se trabajara colaborativamente con: 
+
+Google Drive: https://drive.google.com/drive/folders/1z7GZQGtx4it4qnZFPEAVysuWSWo_fW2w?usp=sharing
+
+
+y la herramienta Trello, la cual facilita la administración del flujo de trabajo y supervisar tareas/avances entre los miembros del equipo. 
 
 ## Proyect Management [Link](https://trello.com/invite/b/rCZs4Ac4/ATTI7b5843cd5ec659e04b4611503d930bb5EDD20104/project-management)
 
